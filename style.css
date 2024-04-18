@@ -1,0 +1,12 @@
+.class{background-color: brown;color: brown;}
+div{   
+    border: 8px solid rgb(0, 0,0);
+}
+img{ 
+    width: 80px;
+    height: 95;
+    object-fit:fill;
+}
+img{
+    width: 70%;
+}
